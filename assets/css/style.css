@@ -1,0 +1,17 @@
+
+.container {
+    padding-bottom: 20px;
+}
+
+.row {
+    padding: 70px; 
+} 
+
+
+.fixed-bottom {
+    background-color: #007bff;
+    width: 100%;
+    border-top: 8px solid black;
+    font-size: 15px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    } 
